@@ -1,0 +1,119 @@
+/*=========================Seção Tags===============================*/
+
+body { 
+    margin: 0;
+    text-align: center;
+    font-family:'Sonsie One', cursive;
+    font-size: 200%;
+    color: #ffca52;
+}
+
+h1 {    
+    width: 10%;
+        margin: 0 auto;
+    
+}
+h2 {
+    font-family: 'Twinkle Star', cursiva;
+    color: #efedf2;
+    font-size: 100%;
+}
+h3 {
+    font-family: 'Caramel', cursiva;
+    color: #efedf2;
+}
+h4 {
+         
+        text-align: center;
+        font-family:'Sonsie One', cursive;
+        font-size: 200%;
+        color: #730c85;
+    }
+
+
+p {
+    font-family: 'Dancing Script', cursiva;
+    color: #200475;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 70%;
+}
+
+b{
+    font-family: 'Courier New', Courier, monospace;
+    color: #080808;
+    font-size: 50%;
+}
+
+/*=========================Seção classes===============================*/
+.top-container{ 
+    background-color: #5a068f;
+    overflow:hidden;
+    
+}
+.efeito {
+    text-decoration: underline;
+}
+
+.middle-container {
+    background-color: #9059b1;
+    overflow: hidden;
+}
+
+.skill-row `{
+    width: 50%;
+}
+
+.bottom-container {
+    background-color: #cc9ce5;
+    overflow: hidden;
+   
+}
+
+
+    .contact-message{
+ 
+        width: 30%;
+        margin: 20px auto 20px;
+        
+    }
+
+    .bottom-container {
+        
+    }
+    
+
+    .btn {
+        background: #b500fc;
+        background-image: -webkit-linear-gradient(top, #b500fc, #531e59);
+        background-image: -moz-linear-gradient(top, #b500fc, #531e59);
+        background-image: -ms-linear-gradient(top, #b500fc, #531e59);
+        background-image: -o-linear-gradient(top, #b500fc, #531e59);
+        background-image: linear-gradient(to bottom, #b500fc, #531e59);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        text-shadow: 1px 1px 3px #080808;
+        -webkit-box-shadow: 0px 1px 3px #121112;
+        -moz-box-shadow: 0px 1px 3px #121112;
+        box-shadow: 0px 1px 3px #121112;
+        font-family: Arial;
+        color: #fcf7fc;
+        font-size: 32px;
+        padding: 10px 20px 10px 20px;
+        border: solid #1f628d 2px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
